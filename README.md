@@ -1,3 +1,23 @@
+# AI-Powered Resume Analyzer
+
+**Technologies:** React, React Router v7, Puter.js, Tailwind CSS, TypeScript, Vite, Zustand  
+**Description:** Build an AI-driven resume analyzer that handles authentication, resume storage, and smart candidate-to-job matching (e.g. ATS scoring, feedback) — all with no backend infrastructure required thanks to Puter.js.
+
+---
+
+## 🚀 Features
+
+- **Zero-backend auth**: Authentication fully handled in the browser using Puter.js  
+- **Resume upload & storage**: Users can upload and manage multiple resumes securely  
+- **Smart matching & scoring**: Analyze a resume against a job listing and receive an ATS score + custom feedback  
+- **Reusable modern UI**: Clean, modular components for consistency and maintainability  
+- **Responsive & cross-device**: Works seamlessly on desktop, tablet, and mobile  
+- **State management**: Uses Zustand for minimal, high-performance global state  
+- **Modern toolchain**: Built with TypeScript, Vite, Tailwind CSS (and optionally shadcn/ui)  
+- **Code reuse focused**: Modular architecture to encourage reuse and maintainability  
+
+---
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
